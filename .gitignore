@@ -5,3 +5,4 @@ data/prepared_subjects
 data/subjects
 .ipynb_checkpoints
 classification_notebook.ipynb
+.DS_STORE

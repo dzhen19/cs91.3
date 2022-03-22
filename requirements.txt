@@ -1,5 +1,5 @@
 numpy
 pyriemann
-pickle
 sklearn
 matplotlib
+pandas
